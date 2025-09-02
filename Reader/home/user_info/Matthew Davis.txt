@@ -1,0 +1,66 @@
+3e83a6e22cfc0e97e48e288eea64e95b87aad33318b1ea3a83308035cfa85629,True
+6,in going to this,Robert Campbell,49621,True,04:03:35,11-03-2011
+9,your company I would,Susan Moore,53954,False,00:24:52,14-04-2011
+6,in going to this,Robert Campbell,49621,True,04:06:04,04-07-2011
+6,in going to this,Robert Campbell,49621,True,03:59:39,13-01-2012
+6,in going to this,Robert Campbell,49621,True,01:35:48,21-01-2012
+2,of my,Emily Taylor,52474,False,01:43:27,31-01-2012
+16,than to,Michael Thomas,49817,True,01:17:34,28-02-2012
+8,were made to look,Edward Gonzalez,45795,False,03:06:03,19-05-2012
+10,give you,James Harris,51555,False,02:49:34,15-08-2012
+11,Romeo? I fear,John Adams,50493,False,01:32:56,02-03-2013
+13,the lark and,Anthony Baker,51737,True,02:47:51,29-04-2013
+19,I'll to,Sandra Rivera,47131,False,01:41:51,25-10-2013
+20,Chor. Now old desire doth,George Martinez,53229,False,02:42:37,15-11-2013
+8,were made to look,Edward Gonzalez,45795,False,02:37:50,22-03-2014
+15,me with,Margaret Baker,46384,True,00:00:49,07-10-2014
+13,the lark and,Anthony Baker,51737,True,05:28:22,11-10-2014
+11,Romeo? I fear,John Adams,50493,False,04:48:05,28-04-2015
+15,me with,Margaret Baker,46384,True,03:58:59,17-07-2015
+19,I'll to,Sandra Rivera,47131,False,01:17:30,24-09-2015
+9,your company I would,Susan Moore,53954,False,03:45:41,06-10-2015
+20,Chor. Now old desire doth,George Martinez,53229,False,00:04:09,26-11-2015
+8,were made to look,Edward Gonzalez,45795,False,03:12:59,22-01-2016
+12,government Shall stiff and,Linda Hall,49574,False,05:27:50,04-07-2016
+6,in going to this,Robert Campbell,49621,True,03:49:47,06-08-2016
+17,And then,Paul Rivera,52122,False,05:29:31,10-08-2016
+7,by making me,Charles King,51332,False,05:34:05,11-08-2016
+11,Romeo? I fear,John Adams,50493,False,04:33:17,11-11-2016
+17,And then,Paul Rivera,52122,False,03:03:59,21-11-2016
+13,the lark and,Anthony Baker,51737,True,00:01:39,29-11-2016
+5,I'll send a friar that,Jessica Roberts,52041,False,00:13:50,09-03-2017
+9,your company I would,Susan Moore,53954,False,05:10:13,02-05-2017
+19,I'll to,Sandra Rivera,47131,False,02:57:23,23-06-2017
+6,in going to this,Robert Campbell,49621,True,01:43:34,14-08-2017
+15,me with,Margaret Baker,46384,True,05:53:17,06-12-2017
+2,of my,Emily Taylor,52474,False,03:02:36,30-03-2018
+14,lovers' tongues by night,Matthew Smith,46939,False,03:15:07,28-10-2018
+3,and pale with,Patricia Mitchell,45436,False,01:14:35,16-01-2019
+4,house do him disparagement. Therefore,Sarah Allen,47192,False,04:31:16,29-03-2019
+20,Chor. Now old desire doth,George Martinez,53229,False,02:37:52,07-06-2019
+16,than to,Michael Thomas,49817,True,01:15:16,01-02-2020
+9,your company I would,Susan Moore,53954,False,05:46:36,25-02-2020
+11,Romeo? I fear,John Adams,50493,False,02:55:30,27-02-2020
+17,And then,Paul Rivera,52122,False,03:50:51,09-05-2020
+19,I'll to,Sandra Rivera,47131,False,00:58:26,24-05-2020
+19,I'll to,Sandra Rivera,47131,False,01:51:09,04-07-2020
+8,were made to look,Edward Gonzalez,45795,False,05:33:32,28-10-2020
+10,give you,James Harris,51555,False,02:09:49,05-04-2021
+16,than to,Michael Thomas,49817,True,01:36:01,24-04-2021
+14,lovers' tongues by night,Matthew Smith,46939,False,02:13:18,09-06-2021
+9,your company I would,Susan Moore,53954,False,02:59:54,06-08-2021
+1,thou a,Edward Scott,53799,True,00:50:19,12-11-2021
+4,house do him disparagement. Therefore,Sarah Allen,47192,False,02:38:02,11-12-2021
+17,And then,Paul Rivera,52122,False,03:11:17,13-03-2022
+19,I'll to,Sandra Rivera,47131,False,05:16:17,23-05-2022
+8,were made to look,Edward Gonzalez,45795,False,05:30:20,04-06-2022
+15,me with,Margaret Baker,46384,True,03:06:07,02-07-2022
+9,your company I would,Susan Moore,53954,False,01:12:37,28-12-2022
+16,than to,Michael Thomas,49817,True,01:11:58,18-05-2023
+1,thou a,Edward Scott,53799,True,04:28:25,04-06-2023
+14,lovers' tongues by night,Matthew Smith,46939,False,05:57:28,20-08-2023
+11,Romeo? I fear,John Adams,50493,False,02:10:50,29-11-2023
+20,Chor. Now old desire doth,George Martinez,53229,False,03:20:03,27-12-2023
+15,me with,Margaret Baker,46384,True,04:42:14,26-01-2024
+4,house do him disparagement. Therefore,Sarah Allen,47192,False,02:58:40,05-03-2024
+1,thou a,Edward Scott,53799,True,00:17:20,30-05-2024

@@ -1,0 +1,19 @@
+5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8,False
+6,in going to this,Robert Campbell,49621,True,05:39:17,07-11-2010
+8,were made to look,Edward Gonzalez,45795,False,01:29:57,18-03-2011
+13,the lark and,Anthony Baker,51737,True,05:30:43,05-02-2012
+16,than to,Michael Thomas,49817,True,01:04:08,29-05-2012
+3,and pale with,Patricia Mitchell,45436,False,03:05:50,01-08-2012
+18,for lo,John Baker,52314,False,00:30:06,02-02-2014
+7,by making me,Charles King,51332,False,04:34:19,22-01-2015
+11,Romeo? I fear,John Adams,50493,False,03:34:45,28-11-2015
+11,Romeo? I fear,John Adams,50493,False,02:40:04,28-08-2017
+6,in going to this,Robert Campbell,49621,True,05:48:40,02-01-2018
+17,And then,Paul Rivera,52122,False,02:04:19,23-05-2019
+15,me with,Margaret Baker,46384,True,05:08:46,24-07-2019
+20,Chor. Now old desire doth,George Martinez,53229,False,03:45:18,03-07-2020
+16,than to,Michael Thomas,49817,True,00:47:01,07-09-2020
+19,I'll to,Sandra Rivera,47131,False,05:56:47,03-02-2022
+17,And then,Paul Rivera,52122,False,02:24:45,02-09-2022
+14,lovers' tongues by night,Matthew Smith,46939,False,05:04:07,10-02-2024
+7,by making me,Charles King,51332,False,04:50:55,26-04-2024

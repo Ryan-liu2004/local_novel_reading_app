@@ -1,0 +1,73 @@
+2f760e9a2daed0823c251c21b38b9331d4ddf3d09400eb0d3f0dfde89cf52914,False
+16,than to,Michael Thomas,49817,True,05:52:25,04-03-2010
+5,I'll send a friar that,Jessica Roberts,52041,False,04:30:00,06-06-2010
+8,were made to look,Edward Gonzalez,45795,False,02:19:13,19-07-2010
+18,for lo,John Baker,52314,False,05:48:34,10-09-2010
+17,And then,Paul Rivera,52122,False,02:37:40,08-02-2011
+1,thou a,Edward Scott,53799,True,01:06:36,17-02-2011
+11,Romeo? I fear,John Adams,50493,False,04:19:17,15-08-2011
+15,me with,Margaret Baker,46384,True,01:58:38,03-10-2011
+5,I'll send a friar that,Jessica Roberts,52041,False,04:16:57,21-10-2011
+17,And then,Paul Rivera,52122,False,01:10:23,12-01-2012
+12,government Shall stiff and,Linda Hall,49574,False,02:11:12,26-01-2012
+2,of my,Emily Taylor,52474,False,03:57:19,18-02-2012
+6,in going to this,Robert Campbell,49621,True,04:33:06,10-03-2012
+4,house do him disparagement. Therefore,Sarah Allen,47192,False,04:26:23,12-03-2012
+15,me with,Margaret Baker,46384,True,00:59:03,07-05-2012
+3,and pale with,Patricia Mitchell,45436,False,02:47:38,20-06-2012
+20,Chor. Now old desire doth,George Martinez,53229,False,04:26:51,21-06-2012
+2,of my,Emily Taylor,52474,False,00:04:20,14-10-2012
+12,government Shall stiff and,Linda Hall,49574,False,02:10:35,05-06-2013
+4,house do him disparagement. Therefore,Sarah Allen,47192,False,00:49:26,05-08-2013
+9,your company I would,Susan Moore,53954,False,04:43:31,29-07-2014
+10,give you,James Harris,51555,False,00:29:33,06-05-2015
+11,Romeo? I fear,John Adams,50493,False,05:02:29,28-06-2015
+6,in going to this,Robert Campbell,49621,True,00:08:06,25-08-2015
+9,your company I would,Susan Moore,53954,False,03:59:44,10-12-2015
+9,your company I would,Susan Moore,53954,False,01:33:14,11-05-2016
+4,house do him disparagement. Therefore,Sarah Allen,47192,False,04:34:01,14-05-2016
+4,house do him disparagement. Therefore,Sarah Allen,47192,False,03:03:30,19-05-2016
+6,in going to this,Robert Campbell,49621,True,04:23:03,28-12-2016
+16,than to,Michael Thomas,49817,True,04:22:16,01-01-2017
+2,of my,Emily Taylor,52474,False,02:08:29,07-02-2017
+4,house do him disparagement. Therefore,Sarah Allen,47192,False,03:58:54,15-07-2017
+3,and pale with,Patricia Mitchell,45436,False,04:54:22,02-08-2017
+15,me with,Margaret Baker,46384,True,02:00:31,02-11-2017
+13,the lark and,Anthony Baker,51737,True,01:30:16,26-01-2018
+8,were made to look,Edward Gonzalez,45795,False,05:31:21,25-05-2018
+15,me with,Margaret Baker,46384,True,02:28:22,22-06-2018
+14,lovers' tongues by night,Matthew Smith,46939,False,01:36:57,17-11-2018
+15,me with,Margaret Baker,46384,True,00:38:22,28-11-2018
+13,the lark and,Anthony Baker,51737,True,05:02:40,13-12-2018
+12,government Shall stiff and,Linda Hall,49574,False,02:13:32,25-12-2018
+7,by making me,Charles King,51332,False,02:50:24,18-05-2019
+14,lovers' tongues by night,Matthew Smith,46939,False,02:48:54,20-08-2019
+4,house do him disparagement. Therefore,Sarah Allen,47192,False,05:33:59,07-10-2019
+20,Chor. Now old desire doth,George Martinez,53229,False,00:50:56,08-12-2019
+1,thou a,Edward Scott,53799,True,04:26:16,14-05-2020
+10,give you,James Harris,51555,False,03:15:29,21-05-2020
+9,your company I would,Susan Moore,53954,False,01:24:57,23-09-2020
+14,lovers' tongues by night,Matthew Smith,46939,False,04:32:38,26-01-2021
+17,And then,Paul Rivera,52122,False,01:48:41,28-02-2021
+12,government Shall stiff and,Linda Hall,49574,False,01:21:40,19-05-2021
+9,your company I would,Susan Moore,53954,False,00:52:29,23-05-2021
+19,I'll to,Sandra Rivera,47131,False,01:36:19,12-06-2021
+4,house do him disparagement. Therefore,Sarah Allen,47192,False,05:09:42,07-02-2022
+17,And then,Paul Rivera,52122,False,05:39:13,29-05-2022
+6,in going to this,Robert Campbell,49621,True,05:47:07,15-06-2022
+19,I'll to,Sandra Rivera,47131,False,03:27:44,28-07-2022
+13,the lark and,Anthony Baker,51737,True,00:28:38,12-09-2022
+9,your company I would,Susan Moore,53954,False,05:28:54,12-09-2022
+2,of my,Emily Taylor,52474,False,01:50:58,18-09-2022
+3,and pale with,Patricia Mitchell,45436,False,01:52:06,17-10-2022
+17,And then,Paul Rivera,52122,False,05:19:53,12-03-2023
+13,the lark and,Anthony Baker,51737,True,05:15:59,27-05-2023
+10,give you,James Harris,51555,False,05:53:45,17-11-2023
+12,government Shall stiff and,Linda Hall,49574,False,00:27:49,22-12-2023
+17,And then,Paul Rivera,52122,False,05:50:43,10-03-2024
+19,I'll to,Sandra Rivera,47131,False,02:42:28,24-04-2024
+12,government Shall stiff and,Linda Hall,49574,False,03:10:20,03-06-2024
+3,and pale with,Patricia Mitchell,45436,False,01:20:43,11-06-2024
+4,house do him disparagement. Therefore,Sarah Allen,47192,False,01:57:28,02-10-2024
+4,house do him disparagement. Therefore,Sarah Allen,47192,False,05:30:02,04-10-2024
+3,and pale with,Patricia Mitchell,45436,False,01:23:46,10-10-2024

@@ -1,0 +1,41 @@
+8c88b15ec1c21e79b6e97d9fe6554b52d2f3168ea21d921bb8382f0ec9603bb8,False
+20,Chor. Now old desire doth,George Martinez,53229,False,02:27:21,05-01-2010
+16,than to,Michael Thomas,49817,True,00:15:10,25-09-2011
+8,were made to look,Edward Gonzalez,45795,False,01:09:52,26-03-2012
+11,Romeo? I fear,John Adams,50493,False,02:48:36,22-06-2012
+17,And then,Paul Rivera,52122,False,01:23:21,16-09-2012
+9,your company I would,Susan Moore,53954,False,01:11:57,16-02-2013
+6,in going to this,Robert Campbell,49621,True,00:18:57,29-05-2013
+8,were made to look,Edward Gonzalez,45795,False,00:50:48,14-03-2014
+10,give you,James Harris,51555,False,05:32:20,21-04-2014
+6,in going to this,Robert Campbell,49621,True,02:20:36,20-09-2014
+10,give you,James Harris,51555,False,01:06:24,27-03-2015
+10,give you,James Harris,51555,False,03:12:31,03-02-2016
+1,thou a,Edward Scott,53799,True,04:27:51,24-05-2016
+1,thou a,Edward Scott,53799,True,05:08:54,30-08-2016
+3,and pale with,Patricia Mitchell,45436,False,03:42:32,22-11-2016
+4,house do him disparagement. Therefore,Sarah Allen,47192,False,03:24:39,15-04-2017
+20,Chor. Now old desire doth,George Martinez,53229,False,01:41:13,05-05-2017
+14,lovers' tongues by night,Matthew Smith,46939,False,05:05:22,11-02-2018
+13,the lark and,Anthony Baker,51737,True,00:50:38,01-03-2018
+2,of my,Emily Taylor,52474,False,04:01:10,22-05-2018
+18,for lo,John Baker,52314,False,02:07:16,04-12-2018
+9,your company I would,Susan Moore,53954,False,02:44:56,15-11-2019
+9,your company I would,Susan Moore,53954,False,03:09:45,24-12-2019
+2,of my,Emily Taylor,52474,False,01:42:47,14-02-2020
+12,government Shall stiff and,Linda Hall,49574,False,04:31:02,24-05-2020
+9,your company I would,Susan Moore,53954,False,03:35:43,05-08-2020
+9,your company I would,Susan Moore,53954,False,04:56:58,16-10-2020
+5,I'll send a friar that,Jessica Roberts,52041,False,00:30:50,29-10-2020
+13,the lark and,Anthony Baker,51737,True,03:31:42,14-05-2021
+8,were made to look,Edward Gonzalez,45795,False,00:46:40,26-05-2022
+13,the lark and,Anthony Baker,51737,True,03:23:03,25-07-2022
+6,in going to this,Robert Campbell,49621,True,03:38:01,17-12-2022
+3,and pale with,Patricia Mitchell,45436,False,01:00:28,13-06-2023
+10,give you,James Harris,51555,False,01:59:59,22-08-2023
+8,were made to look,Edward Gonzalez,45795,False,04:12:45,04-12-2023
+10,give you,James Harris,51555,False,05:29:35,19-05-2024
+12,government Shall stiff and,Linda Hall,49574,False,02:37:01,19-05-2024
+5,I'll send a friar that,Jessica Roberts,52041,False,05:31:42,15-06-2024
+19,I'll to,Sandra Rivera,47131,False,01:06:31,26-08-2024
+15,me with,Margaret Baker,46384,True,02:38:54,23-09-2024
